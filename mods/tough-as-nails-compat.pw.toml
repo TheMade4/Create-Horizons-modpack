@@ -3,11 +3,6 @@ filename = "tough_as_nails_compat-1.0.5-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e83c55813be20c7f0a95cafd0d27276323815ee3"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5084144
-project-id = 971336
+url = "https://themade4.github.io/Create-Horizons-modpack/Modpack-Data/mods/tough_as_nails_compat-1.0.5-1.20.1.jar"
+hash-format = "sha256"
+hash = "caaadd41e7add15c52e95ccf9ed99cef9d47511fbd4df3e24ccb7a793b1f96d6"
