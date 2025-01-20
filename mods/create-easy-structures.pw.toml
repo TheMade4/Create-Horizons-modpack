@@ -1,0 +1,13 @@
+name = "Create: Easy Structures"
+filename = "create_easy_structures-0.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f44b1e8c80bcb4a2309f37051e647c024e95f87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5789131
+project-id = 949158

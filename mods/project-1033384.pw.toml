@@ -1,0 +1,13 @@
+name = "project-1033384"
+filename = "create_interactive-1201-forge-1.0.2-beta.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96644db68ee073153ac546be6f522d09054e2b4d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5410444
+project-id = 1033384
