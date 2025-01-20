@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "393f266e65c837ed829ce9f540a5220aa68f6c17c3e6288bbe40219f7e2c49fe"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "91cdefd16667e07798566535877d836123144759ea53b29a8372e0ff1bf0b56f"
+
+[[files]]
 file = "mods/NoRealmsButton-1.0.4-forge.jar"
 hash = "fadc1cc5b84074223db9b704a3c36a17db1e4fe0442102b07b4f4da54c44ab9e"
 
