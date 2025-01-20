@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/mafglib.pw.toml"
-hash = "445fc568c930cbbe03f60553237902245578acd0922fa67896e2a387abc2ae2f"
+hash = "12934e9434e42aaebcecb5a0beb3d6ecd2ef19146ebd6498ab9a9d05fbc926a0"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping-forge-updated.pw.toml"
-hash = "6706a2a24a1fe58c8170d05aea600a71910c766c7fb0c1b1313d3feb798fb63a"
+hash = "4632e0c696af1e567b1b52451ebf757b0cf84f2822cd02e43e27283aecb0ecf8"
 metafile = true
 
 [[files]]

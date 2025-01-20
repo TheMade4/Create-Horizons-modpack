@@ -1,12 +1,12 @@
 name = "Create Horizons"
 author = "TM4"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "93be5260e157ff5e32a4597a3b57df9d092f94df2cec8a7c449655a0fc4f2533"
+hash = "69d03c2dbea38e1742cb6d87ab200dcc251ed67bd05d2a89de195228e197ffbf"
 
 [versions]
 forge = "47.3.22"
