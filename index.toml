@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/tough-as-nails-compat.pw.toml"
-hash = "220a5aa1c851a5508e9cd30215084cba485ffbb7ae4bf0db47108054fab1b948"
+hash = "0c7cd5701a42974b91788193a00c1798df1e824eaafdff8a3193803acd6ffd93"
 metafile = true
 
 [[files]]
