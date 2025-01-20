@@ -83,6 +83,10 @@ hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar"
+hash = "cd50ac60bc88c24c9bcad8bdecba3e3c7c58561e9e96e41a42d990d0fc181e9e"
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
@@ -303,6 +307,10 @@ metafile = true
 file = "mods/epherolib.pw.toml"
 hash = "fadaae47087ff0af2442bed6c9978eaa14f2926990738d81b5ce382d4c4a86fa"
 metafile = true
+
+[[files]]
+file = "mods/eureka-1201-1.5.1-beta.3.jar"
+hash = "f790498b949be8c856722600e4361165c2e05bd218cfc9b498e2da5e39f775c1"
 
 [[files]]
 file = "mods/explorify.pw.toml"
@@ -802,6 +810,10 @@ metafile = true
 file = "mods/towntalk.pw.toml"
 hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
+
+[[files]]
+file = "mods/trackwork-1.20.1-1.0.2c.jar"
+hash = "3e97eda5ada0fd98d16c4e36c52ac72cfe1448ec56eab6bd7ecb8c8e46e3b772"
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
